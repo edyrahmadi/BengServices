@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "665406844223",
+    "firebase_url": "https://bengservices-7e507.firebaseio.com",
+    "project_id": "bengservices-7e507",
+    "storage_bucket": "bengservices-7e507.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665406844223:android:08a9150ea45957266fb78a",
+        "android_client_info": {
+          "package_name": "com.example.bengservices"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665406844223-k978glqekd9q1j5uc3mb3p4jvv26snol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5pCPQa45bmyY7OlkpDwV2ay0O7_H3jpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665406844223-k978glqekd9q1j5uc3mb3p4jvv26snol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
